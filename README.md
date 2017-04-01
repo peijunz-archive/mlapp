@@ -1,3 +1,6 @@
+title: Solutions for MLAPP
+date: 2017-03-06
+
 # Solutions for MLAPP
 This project includes my solutions to the book [*Machine Learning: a Probabilistic Perspective*](https://www.cs.ubc.ca/~murphyk/MLbook/) by Kevin Patrick Murphy when I was learning this book.
 
